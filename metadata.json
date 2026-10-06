@@ -1,0 +1,6 @@
+{
+  "name": "OLIPOP - A New Kind of Soda",
+  "description": "Delicious sparkling soda with prebiotics, botanicals, and plant fiber to support digestive health. Real ingredients, 2-5g sugar, 9g prebiotic fiber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
